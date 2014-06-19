@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "riimu/kit-classloader",
-            "version": "v4.0.1",
+            "version": "v4.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Riimu/Kit-ClassLoader.git",
-                "reference": "7e7ff18e988b0db3f595d80b40223b04076400f8"
+                "reference": "b43705dce431c8653208691e2bc79c57e76a7dc0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Riimu/Kit-ClassLoader/zipball/7e7ff18e988b0db3f595d80b40223b04076400f8",
-                "reference": "7e7ff18e988b0db3f595d80b40223b04076400f8",
+                "url": "https://api.github.com/repos/Riimu/Kit-ClassLoader/zipball/b43705dce431c8653208691e2bc79c57e76a7dc0",
+                "reference": "b43705dce431c8653208691e2bc79c57e76a7dc0",
                 "shasum": ""
             },
             "require": {
@@ -46,7 +46,7 @@
                 "autoloading",
                 "psr"
             ],
-            "time": "2014-05-28 13:41:34"
+            "time": "2014-06-19 12:33:22"
         }
     ],
     "packages-dev": [],
