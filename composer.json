@@ -1,0 +1,5 @@
+{
+    "require" : {
+        "riimu/kit-classloader" : "4.*"
+    }
+}

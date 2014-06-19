@@ -1,0 +1,58 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "ad40791a4231b5f433b5842fd188379b",
+    "packages": [
+        {
+            "name": "riimu/kit-classloader",
+            "version": "v4.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Riimu/Kit-ClassLoader.git",
+                "reference": "7e7ff18e988b0db3f595d80b40223b04076400f8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Riimu/Kit-ClassLoader/zipball/7e7ff18e988b0db3f595d80b40223b04076400f8",
+                "reference": "7e7ff18e988b0db3f595d80b40223b04076400f8",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Riimu\\Kit\\ClassLoader\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Riikka Kalliomäki",
+                    "email": "riikka.kalliomaki@gmail.com",
+                    "homepage": "http://riimu.net",
+                    "role": "Developer"
+                }
+            ],
+            "description": "PSR-0 and PSR-4 compatible class autoloader",
+            "keywords": [
+                "autoloading",
+                "psr"
+            ],
+            "time": "2014-05-28 13:41:34"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "platform": [],
+    "platform-dev": []
+}
